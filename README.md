@@ -4,7 +4,7 @@ Programa modular multi-recursos em C que realiza operações básicas, calcula a
 
 # Menu principal
 
-Digite alguma letra para entrar em algum módulo ou então saia do programa.
+Digite alguma letra para entrar em algum módulo ou então sair do programa.
 
 <img src="mainMenu.png" width="700" height="500">
 
@@ -38,7 +38,7 @@ Digite se prefere ir aos canais do YouTube de alguns jogos pré-definidos ou ent
 
 <img src="modC.png" width="700" height="500">
 
-Digite algum jogo de videogame eletrônico e o programa te levará ao seu site oficial.
+Digite algum jogo de videogame eletrônico e o programa te levará ao seu site oficial no YouTube.
 
 <img src="modC__.png" width="700" height="500">
 
