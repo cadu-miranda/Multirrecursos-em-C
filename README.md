@@ -4,13 +4,30 @@ Um programa modular com multi recursos em C que faz operações básicas, calcul
 
 Esquema de menus:
 
-1 - Operações básicas
+A - Operações básicas
 
 <img src="modA_.png" width="500" height="330">
 
 Aqui podemos digitar algum número para fazer a operação básica ou então voltar ao menu principal.
 
+<img src="modA__.png" width="700" height="500">
+
 Um exemplo de adição.
+
+B - Calculadora de área de figuras em 2D básica
+
+<img src="modB_.png" width="500" height="330">
+
+Aqui podemos digitar algum número (representando a figura) para fazer seu cálculo.
+
+<img src="modB.png" width="700" height="500">
+
+Cálculo da área de um retângulo.
+
+C - Conversação
+
+
+
 
 # Observações: O código apresenta alguns bugs, mas apresenta-se relativamente estável | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
