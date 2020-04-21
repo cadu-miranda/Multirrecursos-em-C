@@ -6,7 +6,7 @@ Esquema de menus:
 
 1 - Operações básicas
 
-<img src="modA_" width="460" height="330">
+<img src="modA_.png" width="460" height="330">
 
 # Observações: O código apresenta alguns bugs, mas apresenta-se relativamente estável | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
