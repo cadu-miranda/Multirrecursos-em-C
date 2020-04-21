@@ -4,7 +4,7 @@ Programa modular multi-recursos em C que realiza operações básicas, calcula a
 
 # Menu principal:
 
-<img src="modA_.png" width="700" height="500">
+<img src="mainMenu.png" width="700" height="500">
 
 # Esquema de menus:
 
