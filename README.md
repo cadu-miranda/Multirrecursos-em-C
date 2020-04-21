@@ -6,7 +6,9 @@ Esquema de menus:
 
 1 - Operações básicas
 
-<img src="modA_.png" width="460" height="330">
+<img src="modA_.png" width="500" height="330">
+
+Aqui podemos digitar algum número para fazer a operação básica ou então voltar ao menu principal.
 
 # Observações: O código apresenta alguns bugs, mas apresenta-se relativamente estável | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
