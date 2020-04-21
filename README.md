@@ -2,11 +2,13 @@
 
 Programa modular multi-recursos em C que realiza operações básicas, calcula a área de algumas figuras em 2D e te habilita ter uma dialogação simples, te levando ao canal oficial do YouTube de alguns jogos eletrônicos ou então te recomendando alguns livros.
 
-# Menu principal:
+# Menu principal
+
+Digite alguma letra para entrar em algum módulo ou então saia do programa.
 
 <img src="mainMenu.png" width="700" height="500">
 
-# Esquema de menus:
+# Esquema de menus
 
 A - Operações básicas
 
@@ -22,22 +24,21 @@ B - Calculadora de área de figuras em 2D básica
 
 <img src="modB_.png" width="500" height="330">
 
-Aqui podemos digitar algum número (representando a figura) para fazer seu cálculo.
+Digite o número representando a figura para calcular sua área.
 
 <img src="modB.png" width="700" height="500">
 
-Cálculo da área de um retângulo.
+Um exemplo do cálculo da área de um retângulo.
 
 C - Conversação
 
 <img src="modC_.png" width="500" height="330">
 
-Aqui podemos falar o que gostamos de fazer para o programa nos recomendar alguns jogos para irmos no canal deles no Youtube ou então recomendar alguns livros, dependendo do nosso gosto literário.
+Digite se prefere ir aos canais do YouTube de alguns jogos pré-definidos ou então ter a recomendação de alguns livros.
 
 <img src="modC.png" width="700" height="500">
 
 Digite algum jogo de videogame eletrônico e o programa te levará ao seu site oficial.
-
 
 <img src="modC__.png" width="700" height="500">
 
