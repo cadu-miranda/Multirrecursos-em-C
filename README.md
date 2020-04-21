@@ -10,6 +10,8 @@ Esquema de menus:
 
 Aqui podemos digitar algum número para fazer a operação básica ou então voltar ao menu principal.
 
+Um exemplo de adição.
+
 # Observações: O código apresenta alguns bugs, mas apresenta-se relativamente estável | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
 Autoria própria.
