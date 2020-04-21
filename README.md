@@ -26,6 +26,11 @@ Cálculo da área de um retângulo.
 
 C - Conversação
 
+<img src="modC_.png" width="500" height="330">
+
+Aqui podemos falar o que gostamos de fazer para o programa nos recomendar alguns jogos para irmos no canal deles no Youtube ou então recomendar alguns livros, dependendo do nosso gosto literário.
+
+<img src="modC.png" width="700" height="500">
 
 
 
