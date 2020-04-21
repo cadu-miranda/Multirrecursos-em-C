@@ -32,7 +32,12 @@ Aqui podemos falar o que gostamos de fazer para o programa nos recomendar alguns
 
 <img src="modC.png" width="700" height="500">
 
+Digite algum jogo de videogame eletrônico e o programa te levará ao seu site oficial.
 
+
+<img src="modC__.png" width="700" height="500">
+
+Digite algum gênero literário e o programa te recomendará alguns livros.
 
 # Observações: O código apresenta alguns bugs em sua lógica circular ao voltar alguns menus | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
