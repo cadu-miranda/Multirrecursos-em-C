@@ -1,6 +1,10 @@
 # multiRecurso v1.0
 
-Um programa modular com multi recursos em C que faz operações básicas, calcula a área de algumas figuras em 2D e tem um módulo que te habilita ter uma espécie de conversação com o programa, te indicando alguns livros e jogos eletrônicos.
+Programa modular multi-recursos em C que realiza operações básicas, calcula a área de algumas figuras em 2D e te habilita ter uma dialogação simples, te levando ao canal oficial do YouTube de alguns jogos eletrônicos ou então te recomendando alguns livros.
+
+Menu principal:
+
+
 
 Esquema de menus:
 
@@ -8,7 +12,7 @@ A - Operações básicas
 
 <img src="modA_.png" width="500" height="330">
 
-Aqui podemos digitar algum número para fazer a operação básica ou então voltar ao menu principal.
+Digite algum número para fazer a operação básica ou então volte ao menu principal.
 
 <img src="modA__.png" width="700" height="500">
 
