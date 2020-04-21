@@ -2,11 +2,11 @@
 
 Programa modular multi-recursos em C que realiza operações básicas, calcula a área de algumas figuras em 2D e te habilita ter uma dialogação simples, te levando ao canal oficial do YouTube de alguns jogos eletrônicos ou então te recomendando alguns livros.
 
-Menu principal:
+# Menu principal:
 
+<img src="modA_.png" width="700" height="500">
 
-
-Esquema de menus:
+# Esquema de menus:
 
 A - Operações básicas
 
