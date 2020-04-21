@@ -34,6 +34,6 @@ Aqui podemos falar o que gostamos de fazer para o programa nos recomendar alguns
 
 
 
-# Observações: O código apresenta alguns bugs na lógica de voltar os menus em alguns lugares | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
+# Observações: O código apresenta alguns bugs em sua lógica circular ao voltar alguns menus | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
 Autoria própria.
