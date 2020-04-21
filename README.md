@@ -29,6 +29,6 @@ C - Conversação
 
 
 
-# Observações: O código apresenta alguns bugs, mas apresenta-se relativamente estável | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
+# Observações: O código apresenta alguns bugs na lógica de voltar os menus em alguns lugares | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
 Autoria própria.
