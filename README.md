@@ -4,7 +4,7 @@ Programa modular multi-recursos em C que realiza operações básicas, calcula a
 
 # Menu principal
 
-Digite alguma letra para entrar em algum módulo ou então sair do programa.
+Digite alguma letra para entrar em algum módulo ou então para sair do programa.
 
 <img src="mainMenu.png" width="700" height="500">
 
