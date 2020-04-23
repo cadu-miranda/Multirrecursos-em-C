@@ -48,6 +48,4 @@ Digite algum gênero literário e o programa te recomendará alguns livros.
 
 # Observações: O código apresenta alguns bugs em sua lógica circular ao voltar alguns menus | É necessário baixar a ferramenta Dev-C++ para compilar o programa e torná-lo um arquivo executável.
 
-Autoria própria.
-
 *Notas da versão 1.0: lançamento do código estável
