@@ -1181,7 +1181,7 @@ int main(){
 	printf("\n 5 - Do Androids Dream of Electric Sheep? by Philip K. Dick");
 	printf("\n 6 - The Hitchhikers Guide to the Galaxy by Douglas Adams");
 	printf("\n 7 - Neuromancer by William Gibson");
-	printf("\n 8 - Ender´s Game by Orson Scott Card");
+	printf("\n 8 - EnderÂ´s Game by Orson Scott Card");
 	printf("\n 9 - Snow Crash by Neal Stephenson");
 	printf("\n 10 - Ready Player One by Ernest Cline");
 	printf("\n\n Press enter... ");
@@ -1202,7 +1202,7 @@ int main(){
 	printf("\n 6 - I'm Thinking of Ending It All by Iain Reid");
 	printf("\n 7 - The Rosemary's Baby by Ira Levin");
 	printf("\n 8 - Horror in Amityville by Jay Anson");
-	printf("\n 9 - A Submerged Girl by Caitlín Kiernan");
+	printf("\n 9 - A Submerged Girl by CaitlÃ­n Kiernan");
 	printf("\n 10 - The Ghost Bride by Yangze Choo");
 	printf("\n\n Press enter... ");
 	fflush(stdin);
