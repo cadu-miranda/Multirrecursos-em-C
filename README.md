@@ -1,4 +1,4 @@
-# Multirecursos-em-C  v1.0
+# Multirrecursos-em-C  v0.1
 
 # Projeto realizado sem fins-lucrativos, visando a aprendizagem própria da linguagem C.
 
